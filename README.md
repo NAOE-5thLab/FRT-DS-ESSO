@@ -237,6 +237,3 @@ Biblatex entry:
 The dataset is released under the [Creative Commons BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 [![CC BY-NC 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)](https://creativecommons.org/licenses/by-nc/4.0/)
-
-
-
