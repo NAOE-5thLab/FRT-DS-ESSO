@@ -234,7 +234,9 @@ Biblatex entry:
 
 ## License
 
-The dataset is released under the [Creative Commons BY-NC License](https://creativecommons.org/licenses/by-nc/4.0/).
+The dataset is released under the [Creative Commons BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" alt="Creative Commons License" style="zoom:24%;" /> 
+[![CC BY-NC 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
 
