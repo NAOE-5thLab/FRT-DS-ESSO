@@ -37,7 +37,7 @@ The free-running model tests were carried out in the experimental pond known as 
 
 We employ two coordinate systems: the ship-fixed coordinate system denoted as $\mathrm{O}-xy$ and the space-fixed coordinate system denoted as $\mathrm{O}_0-x_0y_0$. These coordinate systems are defined as illustrated in the following right figure. Note that the origin of the $\mathrm{O}_0-x_0y_0$ system is located in close proximity to the corners of the berth.
 
-<img src="./img/inukai.pdf" style="zoom:150%;" />
+<img src="./img/inukai.png" style="zoom:150%;" />
 
 The observed variables have been outlined in the table provided below. These variables have been derived from measured data. For example, the ship position was observed by converting the GNSS receiver position to midship position. **If you require further information, please see [our paper](https://doi.org/10.1007/s00773-022-00889-3) for details on the measurement systems of the model ship.**
 
